@@ -1,0 +1,3 @@
+[submodule "qmake-features"]
+	path = project/qmake/features
+	url = https://github.com/wasor4ik/Unit1Project
