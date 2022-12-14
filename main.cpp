@@ -1,9 +1,14 @@
 #include <QCoreApplication>
 #include <QLocale>
 #include <QTranslator>
+#include <iostream>
+
+using namespace std;
 
 int main(int argc, char *argv[])
 {
+    cout << "Hello world!" ;
+
     QCoreApplication a(argc, argv);
 
     QTranslator translator;
